@@ -1,4 +1,33 @@
 ## Hi there 👋
+Data Scraping, Mining, infrastructure and architecture deployment specialists with over 10 years of customer satisfaction and a good sense of humor (..as can be seen with the && in the title..). We have actively contributed to various open source projects including MailBus, AMQ, Hadoop, NAGIOS, Jenkins among others. Our team has been known to deliver superior products to clients on schedule and have maintained a spotless history of contractual endeavors.
+
+We are gifted with a diverse set of individuals that specialize in:
+- Lead Generation, Prospect List, List Building
+- Web Automation, Web Research, Web Crawling, Web Scraping
+- DataOps (Extract, Transform and Load)
+- Data Extraction, Data Scraping, Data Mining
+- Scripting (JavaScript, Selenium, Scrapy, Python, PHP)
+- Cloud Setup and Deployment (Docker, AWS, DigitalOcean, Google Cloud, Azure)
+- Database Management (PostgreSQL, MySQL, MongoDB)
+- Email Campaign Setup and Marketing
+- Virtual Assistance
+- Research
+
+About me:
+• 5+ years of professional experience in all stages of the SDLC (Software Development Life Cycle) including user requirement analysis, design, implementation, testing, deployment, documentation, and maintaining of various stand-alone, intranet, client-server and web-based projects with exposure to diverse business domains including eCommerce, Marketing Automation, Automated High Frequency (Stock) Trading (HFT), Financial and Banking Projects
+• Strong skilled in Scripting Languages like Python, bash, JS
+• Experienced in developing cross-platform and multithreaded applications
+• Experienced in single and multi-server frameworks and deployments
+• Solid background in computer science
+• Ability to work well within tight deadlines and under pressure
+• Good team player with excellent organizational and mentoring skills
+• Fluent in English
+
+Feel free to reach out to me at repoRequests@SoorajAntony.com if you need access to any of the repos in this account.
+Also available to connect at 
+[Whatsapp](whatsapp.SoorajAntony.com)
+[LinkedIn](linkedin.SoorajAntony.com)
+[facebook](facebook.SoorajAntony.com)
 
 <!--
 
