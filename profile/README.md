@@ -25,9 +25,9 @@ About me:
 
 Feel free to reach out to me at repoRequests@SoorajAntony.com if you need access to any of the repos in this account.
 Also available to connect at 
-[Whatsapp](whatsapp.SoorajAntony.com)
-[LinkedIn](linkedin.SoorajAntony.com)
-[facebook](facebook.SoorajAntony.com)
+• [Whatsapp](whatsapp.SoorajAntony.com)
+• [LinkedIn](linkedin.SoorajAntony.com)
+• [facebook](facebook.SoorajAntony.com)
 
 <!--
 
