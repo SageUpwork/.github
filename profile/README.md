@@ -1,5 +1,5 @@
 ## Hi there 👋
-Data Scraping, Mining, infrastructure and architecture deployment specialists with over 10 years of customer satisfaction and a good sense of humor (..as can be seen with the && in the title..). We have actively contributed to various open source projects including MailBus, AMQ, Hadoop, NAGIOS, Jenkins among others. Our team has been known to deliver superior products to clients on schedule and have maintained a spotless history of contractual endeavors.
+AI, Deep Learning, Data Scraping, Mining, infrastructure and architecture deployment specialists with over 10 years of customer satisfaction and a good sense of humor (..as can be seen with the && in the title..). We have actively contributed to various open source projects including MailBus, AMQ, Hadoop, NAGIOS, Jenkins among others. Our team has been known to deliver superior products to clients on schedule and have maintained a spotless history of contractual endeavors.
 
 We are gifted with a diverse set of individuals that specialize in:
 - Lead Generation, Prospect List, List Building
@@ -23,11 +23,13 @@ About me:
 • Good team player with excellent organizational and mentoring skills
 • Fluent in English
 
-Feel free to reach out to me at repoRequests@SoorajAntony.com if you need access to any of the repos in this account.
+Feel free to reach out to me at [mail](repoRequests@SoorajAntony.com) if you need access to any of the repos in this account or for project requirements.
+
 Also available to connect at 
+
 • [Whatsapp](whatsapp.SoorajAntony.com)
 • [LinkedIn](linkedin.SoorajAntony.com)
-• [facebook](facebook.SoorajAntony.com)
+• [Facebook](facebook.SoorajAntony.com)
 
 <!--
 
